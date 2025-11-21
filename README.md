@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-👉 [点击查看在线演示 / Click to View Live Demo](cloud-algo-viz.vercel.app)
+👉 [点击查看在线演示 / Click to View Live Demo](https://cloud-algo-viz.vercel.app/)
 
 ## 📖 项目背景 (Background)
 
